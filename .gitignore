@@ -3,3 +3,4 @@ venv/
 chroma_db/
 faiss_db/
 __pycache__/
+debug_output.txt
